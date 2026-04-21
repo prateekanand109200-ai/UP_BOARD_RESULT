@@ -1,0 +1,67 @@
+{
+  "exam": {
+    "name": "High School (10th) Examination",
+    "year": "2026",
+    "board": "माध्यमिक शिक्षा परिषद, उत्तर प्रदेश, प्रयागराज (Uttar Pradesh Madhyamik Shiksha Parishad, Prayagraj)"
+  },
+  "candidate_details": {
+    "roll_number": "1262442359",
+    "candidate_name": "PRATEEK ANAND",
+    "mothers_name": "MEERA DEVI",
+    "fathers_name": "PHOOLCHAND ANAND",
+    "date_of_birth": "08/05/2018",
+    "district_code": "71",
+    "school_code": "1399"
+  },
+  "marks_details": [
+    {
+      "subject": "HINDI",
+      "theory": 47,
+      "practical": 30,
+      "total": 77,
+      "grade": "B2"
+    },
+    {
+      "subject": "ENGLISH",
+      "theory": 41,
+      "practical": 29,
+      "total": 70,
+      "grade": "B2"
+    },
+    {
+      "subject": "MATHEMATICS",
+      "theory": 23,
+      "practical": 30,
+      "total": 53,
+      "grade": "C1"
+    },
+    {
+      "subject": "SCIENCE",
+      "theory": 52,
+      "practical": 28,
+      "total": 80,
+      "grade": "A2"
+    },
+    {
+      "subject": "SOCIAL SCIENCE",
+      "theory": 49,
+      "practical": 29,
+      "total": 78,
+      "grade": "B2"
+    },
+    {
+      "subject": "DRAWING",
+      "theory": 55,
+      "practical": 30,
+      "total": 85,
+      "grade": "A2"
+    }
+  ],
+  "result": "PASSED",
+  "disclaimer": [
+    "This is a Computer Generated Provisional Score Card. The result is for immediate information and cannot be treated as an original mark sheet.",
+    "Data provided by Board of High School & Intermediate Education Uttar Pradesh, Prayagraj.",
+    "Neither the Board nor the service provider is responsible for any inadvertent error.",
+    "For any clarification, contact UTTAR PRADESH MADHYAMIK SHIKSHA PARISHAD."
+  ]
+}
