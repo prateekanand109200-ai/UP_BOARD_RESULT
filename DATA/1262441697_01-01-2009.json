@@ -10,16 +10,16 @@
     "mothers_name": "SHREE MATI",
     "fathers_name": "INDAL",
     "date_of_birth": "01/01/2009",
-    "district_code": "45",
-    "school_code": "2187"
+    "district_code": "71",
+    "school_code": "1365"
   },
   "marks_details": [
     {
       "subject": "HINDI",
-      "theory": 56,
+      "theory": 46,
       "practical": 29,
-      "total": 85,
-      "grade": "A2"
+      "total": 75,
+      "grade": "B2"
     },
     {
       "subject": "ENGLISH",
@@ -44,10 +44,10 @@
     },
     {
       "subject": "HOME SCIENCE",
-      "theory": 60,
+      "theory": 45,
       "practical": 30,
-      "total": 90,
-      "grade": "A1"
+      "total": 75,
+      "grade": "B1"
     },
     {
       "subject": "DRAWING",
